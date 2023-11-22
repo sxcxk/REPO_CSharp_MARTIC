@@ -1,6 +1,0 @@
-C:\Users\peter\Desktop\AlphabotService_MARTIC\AlphabotLogic\obj\Debug\AlphabotLogic.csproj.AssemblyReference.cache
-C:\Users\peter\Desktop\AlphabotService_MARTIC\AlphabotLogic\obj\Debug\AlphabotLogic.csproj.CoreCompileInputs.cache
-C:\Users\peter\Desktop\AlphabotService_MARTIC\AlphabotLogic\bin\Debug\AlphabotLogic.dll
-C:\Users\peter\Desktop\AlphabotService_MARTIC\AlphabotLogic\bin\Debug\AlphabotLogic.pdb
-C:\Users\peter\Desktop\AlphabotService_MARTIC\AlphabotLogic\obj\Debug\AlphabotLogic.dll
-C:\Users\peter\Desktop\AlphabotService_MARTIC\AlphabotLogic\obj\Debug\AlphabotLogic.pdb

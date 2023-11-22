@@ -1,8 +1,0 @@
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\bin\Debug\Service.Client.Consolegui.exe.config
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\bin\Debug\Service.Client.Consolegui.exe
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\bin\Debug\Service.Client.Consolegui.pdb
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\obj\Debug\Service.Client.Consolegui.csproj.AssemblyReference.cache
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\obj\Debug\Service.Client.Consolegui.csproj.SuggestedBindingRedirects.cache
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\obj\Debug\Service.Client.Consolegui.csproj.CoreCompileInputs.cache
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\obj\Debug\Service.Client.Consolegui.exe
-C:\Users\peter\Desktop\AlphabotService_MARTIC\Service.Client.Consolegui\obj\Debug\Service.Client.Consolegui.pdb
