@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Shared\bin\Debug\TrafficCounting.Shared.dll
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Shared\bin\Debug\TrafficCounting.Shared.pdb
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Shared\obj\Debug\TrafficCounting.Shared.csproj.AssemblyReference.cache
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Shared\obj\Debug\TrafficCounting.Shared.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Shared\obj\Debug\TrafficCounting.Shared.dll
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Shared\obj\Debug\TrafficCounting.Shared.pdb
