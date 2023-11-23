@@ -1,0 +1,839 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_blackjack_g_u_i_1_1_properties_1_1_resources" kind="class" language="C#" prot="package">
+    <compoundname>BlackjackGUI::Properties::Resources</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa1c667a3219f402a5c173e97ea531f62" prot="private" static="yes" mutable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager BlackjackGUI.Properties.Resources.resourceMan</definition>
+        <argsstring></argsstring>
+        <name>resourceMan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="27" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af97fa580f74d5bf0e5a2b93b3e16a574" prot="private" static="yes" mutable="no">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo BlackjackGUI.Properties.Resources.resourceCulture</definition>
+        <argsstring></argsstring>
+        <name>resourceCulture</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="29" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a96415798338c2cec085aa909aac561bc" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager BlackjackGUI.Properties.Resources.ResourceManager</definition>
+        <argsstring></argsstring>
+        <name>ResourceManager</name>
+        <briefdescription>
+<para>Returns the cached ResourceManager instance used by this class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="39" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a5c3bbc9a73c6131e678997e91e87518c" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo BlackjackGUI.Properties.Resources.Culture</definition>
+        <argsstring></argsstring>
+        <name>Culture</name>
+        <briefdescription>
+<para>Overrides the current thread&apos;s CurrentUICulture property for all resource lookups using this strongly typed resource class. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="54" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aeb6ab93575436a39cd43ee74c1c72871" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.CardSkin</definition>
+        <argsstring></argsstring>
+        <name>CardSkin</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="66" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1abf5bb01ce2008dabc613e7023739eacd" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Acht</definition>
+        <argsstring></argsstring>
+        <name>Herz_Acht</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="76" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af1fc9f20b38ad47c1c4536528304dc5b" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Ass</definition>
+        <argsstring></argsstring>
+        <name>Herz_Ass</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="86" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a15b4e36880063bff799a6453eb009e67" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Bube</definition>
+        <argsstring></argsstring>
+        <name>Herz_Bube</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="96" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a10c2b5c03de792e5e8b28d69b6cf821e" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Dame</definition>
+        <argsstring></argsstring>
+        <name>Herz_Dame</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="106" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ad377303680526eaa90757bd6d07c0d51" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Drei</definition>
+        <argsstring></argsstring>
+        <name>Herz_Drei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="116" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a376ff3ebc384c8ebfcf36e28527a71e6" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Fuenf</definition>
+        <argsstring></argsstring>
+        <name>Herz_Fuenf</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="126" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aede43d541094155cfbf22062b06397af" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Koenig</definition>
+        <argsstring></argsstring>
+        <name>Herz_Koenig</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="136" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a3fa09fd461dce3408686ce06f0cbf2d0" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Neun</definition>
+        <argsstring></argsstring>
+        <name>Herz_Neun</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="146" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="146" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa28be6dafbe320180840f0acf38fdeb2" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Sechs</definition>
+        <argsstring></argsstring>
+        <name>Herz_Sechs</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="156" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a175f77d5d58f61ba5c99af1bdcfc3a5d" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Sieben</definition>
+        <argsstring></argsstring>
+        <name>Herz_Sieben</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="166" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae1a17fcdc7bf7a28be475e9d90e86786" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Vier</definition>
+        <argsstring></argsstring>
+        <name>Herz_Vier</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="176" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="176" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a2f2b287511d98c53bb7fc54b3daeac84" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Zehn</definition>
+        <argsstring></argsstring>
+        <name>Herz_Zehn</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="186" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="186" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa2f086f64a38a767b894bc48b7bdf2fa" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Herz_Zwei</definition>
+        <argsstring></argsstring>
+        <name>Herz_Zwei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="196" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="196" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae13e1ec26e7f70029839600eeb3e7f92" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Acht</definition>
+        <argsstring></argsstring>
+        <name>Karo_Acht</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="206" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="206" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aeb364a25166f450929296292813edfaa" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Ass</definition>
+        <argsstring></argsstring>
+        <name>Karo_Ass</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="216" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="216" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a2a8903745e8cb105952cf0c819e91df0" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Bube</definition>
+        <argsstring></argsstring>
+        <name>Karo_Bube</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="226" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="226" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a221b33c1408bdfb4cdbcdd634ecf06e9" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Dame</definition>
+        <argsstring></argsstring>
+        <name>Karo_Dame</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="236" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="236" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a56e05bc893cb37a2c7ce8d2227176a0d" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Drei</definition>
+        <argsstring></argsstring>
+        <name>Karo_Drei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="246" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="246" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae921ade3e627f5f85d1be06ed3f0847a" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Fuenf</definition>
+        <argsstring></argsstring>
+        <name>Karo_Fuenf</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="256" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="256" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a17a12bd8675f7b426d26ec943a806c47" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Koenig</definition>
+        <argsstring></argsstring>
+        <name>Karo_Koenig</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="266" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="266" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a0cef1d9d592b88c7cd1a41699fa4b714" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Neun</definition>
+        <argsstring></argsstring>
+        <name>Karo_Neun</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="276" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="276" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a7666471c699f960cca210f1f9231a599" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Sechs</definition>
+        <argsstring></argsstring>
+        <name>Karo_Sechs</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="286" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="286" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a2b9cee1f9a0b2a9f1ee2f576b264de52" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Sieben</definition>
+        <argsstring></argsstring>
+        <name>Karo_Sieben</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="296" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="296" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af7971842a7a0abf0142f7a475d105d48" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Vier</definition>
+        <argsstring></argsstring>
+        <name>Karo_Vier</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="306" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="306" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a7d085af5dd3f28ee2f3872aafacb8275" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Zehn</definition>
+        <argsstring></argsstring>
+        <name>Karo_Zehn</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="316" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="316" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aaed78ed19ec9ab3ceaecf9f327f1dda3" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Karo_Zwei</definition>
+        <argsstring></argsstring>
+        <name>Karo_Zwei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="326" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="326" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa6a4144305a3b694825257f123b845cb" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Acht</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Acht</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="336" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="336" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a908762be877a680d8463d9f413adcb6c" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Ass</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Ass</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="346" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="346" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aad99b6d1485ac6417fc97995a7dd06fd" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Bube</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Bube</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="356" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="356" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a23a7c1c6137bc4a7792662e75bb93af6" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Dame</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Dame</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="366" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="366" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a3014ad1dd663cb988d4fe6f3d98d08cd" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Drei</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Drei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="376" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="376" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af45e1814e42db5f91feeefb8c11dd270" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Fuenf</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Fuenf</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="386" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="386" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa55c2043188f16619f61d9f152430433" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Koenig</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Koenig</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="396" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="396" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a0a7eb9113f899d92bf0ba03fcbf2d282" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Neun</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Neun</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="406" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="406" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ab1ca554299674029d8f0bcd87a5a6996" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Sechs</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Sechs</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="416" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="416" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aea8a30d06d1d792cfb5021dbfe0d10eb" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Sieben</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Sieben</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="426" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="426" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae8046203048868c8cbfb219414733d1a" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Vier</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Vier</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="436" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="436" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ad3c42650e408107a12b8105fb6cb2ddc" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Zehn</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Zehn</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="446" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="446" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a1574a62c1b958429d44e549afd77c11b" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Kreuz_Zwei</definition>
+        <argsstring></argsstring>
+        <name>Kreuz_Zwei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="456" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="456" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ad10a731e7556ad29d478b022509f0637" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Acht</definition>
+        <argsstring></argsstring>
+        <name>Pik_Acht</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="466" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="466" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a763e69d895d36f54013ff49d75c883d4" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Ass</definition>
+        <argsstring></argsstring>
+        <name>Pik_Ass</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="476" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="476" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae07b82ba16059387a7326c617d4fe548" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Bube</definition>
+        <argsstring></argsstring>
+        <name>Pik_Bube</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="486" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="486" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae2df69713a35f383622f2ed7baa4e185" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Dame</definition>
+        <argsstring></argsstring>
+        <name>Pik_Dame</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="496" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="496" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a539be3b310d20ed34b3cfedc49bb556c" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Drei</definition>
+        <argsstring></argsstring>
+        <name>Pik_Drei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="506" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="506" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aac14111955806a6d7c83d7c28cc1251a" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Fuenf</definition>
+        <argsstring></argsstring>
+        <name>Pik_Fuenf</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="516" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="516" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a0aac69c8148b4fc326006a29edebb034" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Koenig</definition>
+        <argsstring></argsstring>
+        <name>Pik_Koenig</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="526" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="526" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ab98a8932a2ff200ac37f9bd811b1d5f7" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Neun</definition>
+        <argsstring></argsstring>
+        <name>Pik_Neun</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="536" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="536" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a5d385d4651f0a68c9b26d8959ce02077" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Sechs</definition>
+        <argsstring></argsstring>
+        <name>Pik_Sechs</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="546" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="546" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a64f2e737f04e2b55f044e2e528744b8a" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Sieben</definition>
+        <argsstring></argsstring>
+        <name>Pik_Sieben</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="556" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="556" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a3dffee384c913b00a0c9a35e2a12800d" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Vier</definition>
+        <argsstring></argsstring>
+        <name>Pik_Vier</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="566" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="566" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa9f265b0bf67dc538b937ac09f8eec8d" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Zehn</definition>
+        <argsstring></argsstring>
+        <name>Pik_Zehn</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="576" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="576" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a99018d404a9273c02f3744c5b39dd052" prot="package" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>System.Drawing.Bitmap</type>
+        <definition>System.Drawing.Bitmap BlackjackGUI.Properties.Resources.Pik_Zwei</definition>
+        <argsstring></argsstring>
+        <name>Pik_Zwei</name>
+        <briefdescription>
+<para>Looks up a localized resource of type System.Drawing.Bitmap. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="586" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="586" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a8e892d676da12bdde0d320803e3e1666" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BlackjackGUI.Properties.Resources.Resources</definition>
+        <argsstring>()</argsstring>
+        <name>Resources</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="32" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="32" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A strongly-typed resource class, for looking up localized strings, etc. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="59">
+        <label>BlackjackGUI.Properties.Resources</label>
+        <childnode refid="59" relation="usage">
+          <edgelabel>resourceMan</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" line="25" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Resources.Designer.cs" bodystart="25" bodyend="592"/>
+    <listofallmembers>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aeb6ab93575436a39cd43ee74c1c72871" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>CardSkin</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a5c3bbc9a73c6131e678997e91e87518c" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Culture</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1abf5bb01ce2008dabc613e7023739eacd" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Acht</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af1fc9f20b38ad47c1c4536528304dc5b" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Ass</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a15b4e36880063bff799a6453eb009e67" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Bube</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a10c2b5c03de792e5e8b28d69b6cf821e" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Dame</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ad377303680526eaa90757bd6d07c0d51" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Drei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a376ff3ebc384c8ebfcf36e28527a71e6" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Fuenf</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aede43d541094155cfbf22062b06397af" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Koenig</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a3fa09fd461dce3408686ce06f0cbf2d0" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Neun</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa28be6dafbe320180840f0acf38fdeb2" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Sechs</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a175f77d5d58f61ba5c99af1bdcfc3a5d" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Sieben</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae1a17fcdc7bf7a28be475e9d90e86786" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Vier</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a2f2b287511d98c53bb7fc54b3daeac84" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Zehn</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa2f086f64a38a767b894bc48b7bdf2fa" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Herz_Zwei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae13e1ec26e7f70029839600eeb3e7f92" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Acht</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aeb364a25166f450929296292813edfaa" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Ass</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a2a8903745e8cb105952cf0c819e91df0" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Bube</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a221b33c1408bdfb4cdbcdd634ecf06e9" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Dame</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a56e05bc893cb37a2c7ce8d2227176a0d" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Drei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae921ade3e627f5f85d1be06ed3f0847a" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Fuenf</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a17a12bd8675f7b426d26ec943a806c47" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Koenig</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a0cef1d9d592b88c7cd1a41699fa4b714" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Neun</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a7666471c699f960cca210f1f9231a599" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Sechs</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a2b9cee1f9a0b2a9f1ee2f576b264de52" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Sieben</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af7971842a7a0abf0142f7a475d105d48" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Vier</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a7d085af5dd3f28ee2f3872aafacb8275" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Zehn</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aaed78ed19ec9ab3ceaecf9f327f1dda3" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Karo_Zwei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa6a4144305a3b694825257f123b845cb" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Acht</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a908762be877a680d8463d9f413adcb6c" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Ass</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aad99b6d1485ac6417fc97995a7dd06fd" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Bube</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a23a7c1c6137bc4a7792662e75bb93af6" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Dame</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a3014ad1dd663cb988d4fe6f3d98d08cd" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Drei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af45e1814e42db5f91feeefb8c11dd270" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Fuenf</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa55c2043188f16619f61d9f152430433" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Koenig</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a0a7eb9113f899d92bf0ba03fcbf2d282" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Neun</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ab1ca554299674029d8f0bcd87a5a6996" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Sechs</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aea8a30d06d1d792cfb5021dbfe0d10eb" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Sieben</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae8046203048868c8cbfb219414733d1a" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Vier</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ad3c42650e408107a12b8105fb6cb2ddc" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Zehn</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a1574a62c1b958429d44e549afd77c11b" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Kreuz_Zwei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ad10a731e7556ad29d478b022509f0637" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Acht</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a763e69d895d36f54013ff49d75c883d4" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Ass</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae07b82ba16059387a7326c617d4fe548" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Bube</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ae2df69713a35f383622f2ed7baa4e185" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Dame</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a539be3b310d20ed34b3cfedc49bb556c" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Drei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aac14111955806a6d7c83d7c28cc1251a" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Fuenf</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a0aac69c8148b4fc326006a29edebb034" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Koenig</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1ab98a8932a2ff200ac37f9bd811b1d5f7" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Neun</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a5d385d4651f0a68c9b26d8959ce02077" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Sechs</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a64f2e737f04e2b55f044e2e528744b8a" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Sieben</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a3dffee384c913b00a0c9a35e2a12800d" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Vier</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa9f265b0bf67dc538b937ac09f8eec8d" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Zehn</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a99018d404a9273c02f3744c5b39dd052" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Pik_Zwei</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1af97fa580f74d5bf0e5a2b93b3e16a574" prot="private" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>resourceCulture</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1aa1c667a3219f402a5c173e97ea531f62" prot="private" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>resourceMan</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a96415798338c2cec085aa909aac561bc" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>ResourceManager</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_resources_1a8e892d676da12bdde0d320803e3e1666" prot="package" virt="non-virtual"><scope>BlackjackGUI::Properties::Resources</scope><name>Resources</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

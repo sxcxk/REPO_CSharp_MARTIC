@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="namespace_blackjack_g_u_i" kind="namespace" language="C#">
+    <compoundname>BlackjackGUI</compoundname>
+    <innerclass refid="class_blackjack_g_u_i_1_1_black_jack" prot="public">BlackjackGUI::BlackJack</innerclass>
+    <innerclass refid="class_blackjack_g_u_i_1_1_form1" prot="public">BlackjackGUI::Form1</innerclass>
+    <innerclass refid="class_blackjack_g_u_i_1_1_frm_einsatz" prot="public">BlackjackGUI::FrmEinsatz</innerclass>
+    <innerclass refid="class_blackjack_g_u_i_1_1_program" prot="public">BlackjackGUI::Program</innerclass>
+    <innernamespace refid="namespace_blackjack_g_u_i_1_1_properties">BlackjackGUI::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/BlackJack.cs" line="10" column="1"/>
+  </compounddef>
+</doxygen>

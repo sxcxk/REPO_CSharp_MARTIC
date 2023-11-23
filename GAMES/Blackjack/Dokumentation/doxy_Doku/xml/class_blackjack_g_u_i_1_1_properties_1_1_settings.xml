@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_blackjack_g_u_i_1_1_properties_1_1_settings" kind="class" language="C#" prot="package">
+    <compoundname>BlackjackGUI::Properties::Settings</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ApplicationSettingsBase</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_properties_1_1_settings_1a801ceb4c7eb5ea7e17caee86e8749e6d" prot="private" static="yes" mutable="no">
+        <type>Settings</type>
+        <definition>Settings BlackjackGUI.Properties.Settings.defaultInstance</definition>
+        <argsstring></argsstring>
+        <name>defaultInstance</name>
+        <initializer>= ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Settings.Designer.cs" line="20" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Settings.Designer.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_blackjack_g_u_i_1_1_properties_1_1_settings_1a2020ac7c63bdf8c367f11e95e85c2e59" prot="public" static="yes" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>Settings</type>
+        <definition>Settings BlackjackGUI.Properties.Settings.Default</definition>
+        <argsstring></argsstring>
+        <name>Default</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Settings.Designer.cs" line="22" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Settings.Designer.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="60">
+        <label>BlackjackGUI.Properties.Settings</label>
+        <childnode refid="61" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="61">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="62">
+        <label>BlackjackGUI.Properties.Settings</label>
+        <childnode refid="63" relation="public-inheritance">
+        </childnode>
+        <childnode refid="62" relation="usage">
+          <edgelabel>defaultInstance</edgelabel>
+        </childnode>
+      </node>
+      <node id="63">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Settings.Designer.cs" line="18" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Properties/Settings.Designer.cs" bodystart="17" bodyend="29"/>
+    <listofallmembers>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_settings_1a2020ac7c63bdf8c367f11e95e85c2e59" prot="public" virt="non-virtual"><scope>BlackjackGUI::Properties::Settings</scope><name>Default</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_properties_1_1_settings_1a801ceb4c7eb5ea7e17caee86e8749e6d" prot="private" virt="non-virtual"><scope>BlackjackGUI::Properties::Settings</scope><name>defaultInstance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_blackjack_1_1_logic_1_1_player" kind="class" language="C#" prot="public">
+    <compoundname>Blackjack::Logic::Player</compoundname>
+    <basecompoundref refid="class_blackjack_1_1_logic_1_1_person" prot="public" virt="non-virtual">Blackjack.Logic.Person</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_blackjack_1_1_logic_1_1_player_1af1b5773d55d49ac01c15f777ca5d5d8c" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_wallet" kindref="compound">Wallet</ref></type>
+        <definition>Wallet Blackjack.Logic.Player.w</definition>
+        <argsstring></argsstring>
+        <name>w</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" line="12" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_player_1aa3d69a3c8290c57f4833c2f335f20e0b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Blackjack.Logic.Player.Bet</definition>
+        <argsstring>(int amount)</argsstring>
+        <name>Bet</name>
+        <param>
+          <type>int</type>
+          <declname>amount</declname>
+        </param>
+        <briefdescription>
+<para>Diese Methode liefert nichts zurück. Sie wird verwendet damit der Spieler einen Einsatz, der im Parameter mitgegeben wird, tätigen kann. Zudem basiert diese Methode auf die Methode in der Wallet-Klasse, die sich WithDraw nennt. Die Methode Bet selbst wird in der Game-Klasse(SetBet) verwendet. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>amount</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" line="25" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" bodystart="25" bodyend="28"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_player_1a4c2d946dfaa3028b35896d014a239e3d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Blackjack.Logic.Player.TakeMoney</definition>
+        <argsstring>(int amount)</argsstring>
+        <name>TakeMoney</name>
+        <param>
+          <type>int</type>
+          <declname>amount</declname>
+        </param>
+        <briefdescription>
+<para>Diese Methode liefert nichts zurück. Sie wird verwendet damit der Spieler seinen Gewinn entnimmt. Zudem basiert diese Methode auf die Methode in der Wallet-Klasse, die sich Deposit nennt. Die Methode TakeMoney-Methode wird in der Game-Klasse(GetMoney) verwendet. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>amount</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" line="38" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" bodystart="38" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_player_1a6b8c9b3d1650afacd63142938079f629" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Blackjack.Logic.Player.GetBalance</definition>
+        <argsstring>()</argsstring>
+        <name>GetBalance</name>
+        <briefdescription>
+<para>Sie wird verwendet damit der Spieler seinen aktuellen Wallet-Wert bekommt. Diese Methode verwendet dafür die Eigenschaft „Balance“, die sich in der Wallet-Klasse befindet. Die Methode selbst wird in der Game-Klasse (Balance) verwendet. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Diese Methode liefert einen int-Wert zurück.</para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" line="50" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_player_1ab3c3440ebdd162e3e5bcc1f78f94bb9b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Blackjack.Logic.Player.Player</definition>
+        <argsstring>()</argsstring>
+        <name>Player</name>
+        <briefdescription>
+<para>Dies ist ein Konstruktor. Im Konstruktor wird ein <ref refid="class_blackjack_1_1_logic_1_1_wallet" kindref="compound">Wallet</ref> erstellt und mit einem Starbudget ausgestattet, welches in der Wallet-Klasse definiert wird. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" line="64" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" bodystart="64" bodyend="67"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="50">
+        <label>Person</label>
+        <link refid="class_blackjack_1_1_logic_1_1_person"/>
+      </node>
+      <node id="49">
+        <label>Blackjack.Logic.Player</label>
+        <link refid="class_blackjack_1_1_logic_1_1_player"/>
+        <childnode refid="50" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="54">
+        <label>Blackjack.Logic.Card</label>
+        <link refid="class_blackjack_1_1_logic_1_1_card"/>
+      </node>
+      <node id="55">
+        <label>Blackjack.Logic.Wallet</label>
+        <link refid="class_blackjack_1_1_logic_1_1_wallet"/>
+      </node>
+      <node id="52">
+        <label>Person</label>
+        <link refid="class_blackjack_1_1_logic_1_1_person"/>
+        <childnode refid="53" relation="usage">
+          <edgelabel>h</edgelabel>
+        </childnode>
+        <childnode refid="54" relation="usage">
+          <edgelabel>card</edgelabel>
+        </childnode>
+      </node>
+      <node id="51">
+        <label>Blackjack.Logic.Player</label>
+        <link refid="class_blackjack_1_1_logic_1_1_player"/>
+        <childnode refid="52" relation="public-inheritance">
+        </childnode>
+        <childnode refid="55" relation="usage">
+          <edgelabel>w</edgelabel>
+        </childnode>
+      </node>
+      <node id="53">
+        <label>Blackjack.Logic.Hand</label>
+        <link refid="class_blackjack_1_1_logic_1_1_hand"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" line="10" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Player.cs" bodystart="9" bodyend="69"/>
+    <listofallmembers>
+      <member refid="class_blackjack_1_1_logic_1_1_player_1aa3d69a3c8290c57f4833c2f335f20e0b" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>Bet</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_person_1a87ae4b2ad857c7925a7b3e548ae63f32" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>Card</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_person_1a042705b508317261388c18ef6b623e92" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>ClearHand</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_player_1a6b8c9b3d1650afacd63142938079f629" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>GetBalance</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_person_1ae109529fcb0ecc020f169cc0cc9b3558" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>GetCards</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_person_1a3812140b290b8c6551bc9906184ed5e5" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>GetPoints</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_person_1a0d015ea253376afb78edd93aa73cd21c" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>Person</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_player_1ab3c3440ebdd162e3e5bcc1f78f94bb9b" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>Player</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_person_1ae245d1c630b20b76de84d1ec8af051a7" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>TakeCard</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_player_1a4c2d946dfaa3028b35896d014a239e3d" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>TakeMoney</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_player_1af1b5773d55d49ac01c15f777ca5d5d8c" prot="private" virt="non-virtual"><scope>Blackjack::Logic::Player</scope><name>w</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_blackjack_g_u_i_1_1_form1" kind="class" language="C#" prot="public">
+    <compoundname>BlackjackGUI::Form1</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1aed3230926b74de941a61a2ad2b8368bf" prot="private" static="no" mutable="no">
+        <type>ResourceManager</type>
+        <definition>ResourceManager BlackjackGUI.Form1.rm</definition>
+        <argsstring></argsstring>
+        <name>rm</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="18" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a2a6b3459e7115fc07e0fd45f45ee560e" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_stack" kindref="compound">Stack</ref></type>
+        <definition>Stack BlackjackGUI.Form1.s</definition>
+        <argsstring></argsstring>
+        <name>s</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="19" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1aff4a9369492a620f157bef7e9ba29c76" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_deck" kindref="compound">Deck</ref></type>
+        <definition>Deck BlackjackGUI.Form1.d</definition>
+        <argsstring></argsstring>
+        <name>d</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="20" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1af9e29aa72559dbaf7864025fd8d6423c" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int BlackjackGUI.Form1.click</definition>
+        <argsstring></argsstring>
+        <name>click</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="21" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a705247ae64741c303b24bbcb469ae4d6" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_card" kindref="compound">Card</ref></type>
+        <definition>Card BlackjackGUI.Form1.toGive</definition>
+        <argsstring></argsstring>
+        <name>toGive</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="22" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1ab61282adf1660a18dd0ed7367aa8bcc3" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string BlackjackGUI.Form1.toGiveCardName</definition>
+        <argsstring></argsstring>
+        <name>toGiveCardName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="23" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1ae1dfd537e165eaf53b33041c5960cffa" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_hand" kindref="compound">Hand</ref></type>
+        <definition>Hand BlackjackGUI.Form1.h1</definition>
+        <argsstring></argsstring>
+        <name>h1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="24" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a984d87b0f08efc8774caa8187548a00f" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_hand" kindref="compound">Hand</ref></type>
+        <definition>Hand BlackjackGUI.Form1.h2</definition>
+        <argsstring></argsstring>
+        <name>h2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="25" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a690b973dd7e325507de918a8be8604ae" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_hand" kindref="compound">Hand</ref></type>
+        <definition>Hand BlackjackGUI.Form1.h3</definition>
+        <argsstring></argsstring>
+        <name>h3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="26" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a3ccf7d508a20f2a6e6ef76c6b25aa5c8" prot="private" static="no" mutable="no">
+        <type><ref refid="class_blackjack_1_1_logic_1_1_hand" kindref="compound">Hand</ref></type>
+        <definition>Hand BlackjackGUI.Form1.h4</definition>
+        <argsstring></argsstring>
+        <name>h4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="27" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1ab486fd5c922b742a1f9acce5bda69fb6" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer BlackjackGUI.Form1.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="8" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1af06f36914eb1cc01cf9a0fbf52a0b488" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.PictureBox</type>
+        <definition>System.Windows.Forms.PictureBox BlackjackGUI.Form1.pbxPlayer1</definition>
+        <argsstring></argsstring>
+        <name>pbxPlayer1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="306" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="306" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1ad27578254cab3675dd9988a1f0689781" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.PictureBox</type>
+        <definition>System.Windows.Forms.PictureBox BlackjackGUI.Form1.pbxPlayer4</definition>
+        <argsstring></argsstring>
+        <name>pbxPlayer4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="307" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="307" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1afa2189d9577904a2e9e03fc0074d994f" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.PictureBox</type>
+        <definition>System.Windows.Forms.PictureBox BlackjackGUI.Form1.pbxStack</definition>
+        <argsstring></argsstring>
+        <name>pbxStack</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="308" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="308" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a560f383f6a8b40b8b0a535185f4c2897" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.PictureBox</type>
+        <definition>System.Windows.Forms.PictureBox BlackjackGUI.Form1.pbxPlayer3</definition>
+        <argsstring></argsstring>
+        <name>pbxPlayer3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="309" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="309" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a0ca945adef566261a34451eeb0e663aa" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.PictureBox</type>
+        <definition>System.Windows.Forms.PictureBox BlackjackGUI.Form1.pbxPlayer2</definition>
+        <argsstring></argsstring>
+        <name>pbxPlayer2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="310" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="310" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1ac38940f9c23ff7d9343ed2bc96ae9e16" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblPlayer1</definition>
+        <argsstring></argsstring>
+        <name>lblPlayer1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="311" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="311" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a04c6328d766a01ef7b19ed24c26f09ae" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblPlayer2</definition>
+        <argsstring></argsstring>
+        <name>lblPlayer2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="312" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="312" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a8f33a2bd9d091aca4df4173b9a6240a5" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblPlayer3</definition>
+        <argsstring></argsstring>
+        <name>lblPlayer3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="313" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="313" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a9bf36654773d2e5e35ef6de81e0c7f42" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblPlayer4</definition>
+        <argsstring></argsstring>
+        <name>lblPlayer4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="314" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="314" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a4285d024483973f7ff801d5e674a7622" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblStack</definition>
+        <argsstring></argsstring>
+        <name>lblStack</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="315" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="315" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a9463d5dc53215ed66b5798a49c72c1e9" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblStackCount</definition>
+        <argsstring></argsstring>
+        <name>lblStackCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="316" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="316" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a8386d941a2ea8cda77e0bebdf6d1377d" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button BlackjackGUI.Form1.btnNewGame</definition>
+        <argsstring></argsstring>
+        <name>btnNewGame</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="317" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="317" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1ad7b902121928da1979f3613e85fccde7" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblHand1</definition>
+        <argsstring></argsstring>
+        <name>lblHand1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="318" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="318" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a56a3d4ddd50463a25cd9f1e5b019081b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblHand4</definition>
+        <argsstring></argsstring>
+        <name>lblHand4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="319" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="319" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1add9e330814bc45a3acf23d403ed39d11" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblHand3</definition>
+        <argsstring></argsstring>
+        <name>lblHand3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="320" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="320" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1adc2c6a5e22d7880bd91b02efe074bba2" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblHand2</definition>
+        <argsstring></argsstring>
+        <name>lblHand2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="321" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="321" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a8bc508e191c2cc3e70cc8930dbea264b" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblValue2</definition>
+        <argsstring></argsstring>
+        <name>lblValue2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="322" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="322" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1aa65c0591e8b3e149ee42e01f8de1edbf" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblValue3</definition>
+        <argsstring></argsstring>
+        <name>lblValue3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="323" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="323" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1acbbb7bcf4a1a6edf4c71420701d9c3f0" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblValue4</definition>
+        <argsstring></argsstring>
+        <name>lblValue4</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="324" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="324" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a7675271763ce7f1e20c6b97005838f29" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label BlackjackGUI.Form1.lblValue1</definition>
+        <argsstring></argsstring>
+        <name>lblValue1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="325" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="325" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_g_u_i_1_1_form1_1a5443a29ec41fad6e4c1b2130577a0021" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.MenuStrip</type>
+        <definition>System.Windows.Forms.MenuStrip BlackjackGUI.Form1.menuStrip1</definition>
+        <argsstring></argsstring>
+        <name>menuStrip1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="326" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="326" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1acf2f9f1f1c8177258e6b6622e934774a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>BlackjackGUI.Form1.Form1</definition>
+        <argsstring>()</argsstring>
+        <name>Form1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="29" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="29" bodyend="45"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1aff53e6b9c4436fd740ef03209c4f8397" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BlackjackGUI.Form1.Form1_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Form1_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="47" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="47" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1a0e6ce5f72c8a063639497a4bd37104b2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BlackjackGUI.Form1.btnNewGame_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>btnNewGame_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="52" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="52" bodyend="84"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1aef85c16e0e2580b6f73492b4ab7a08dc" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BlackjackGUI.Form1.pbxStack_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>pbxStack_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="86" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="86" bodyend="197"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1a1807fdc1ea87c8d74407448e241fb5e9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BlackjackGUI.Form1.pbxPlayer1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>pbxPlayer1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="199" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="199" bodyend="202"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1a8ef571390932d6e1bd7eb703b6ead85f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void BlackjackGUI.Form1.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="29" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="29" bodyend="302"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_blackjack_g_u_i_1_1_form1_1a6b67f409559e5053cb868eb8636b7e90" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void BlackjackGUI.Form1.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" line="14" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="22">
+        <label>BlackjackGUI.Form1</label>
+        <link refid="class_blackjack_g_u_i_1_1_form1"/>
+        <childnode refid="23" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>Form</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="24">
+        <label>BlackjackGUI.Form1</label>
+        <link refid="class_blackjack_g_u_i_1_1_form1"/>
+        <childnode refid="25" relation="public-inheritance">
+        </childnode>
+        <childnode refid="26" relation="usage">
+          <edgelabel>lblHand4</edgelabel>
+          <edgelabel>lblValue1</edgelabel>
+          <edgelabel>btnNewGame</edgelabel>
+          <edgelabel>lblValue2</edgelabel>
+          <edgelabel>lblStackCount</edgelabel>
+          <edgelabel>lblValue3</edgelabel>
+          <edgelabel>lblValue4</edgelabel>
+          <edgelabel>menuStrip1</edgelabel>
+          <edgelabel>lblStack</edgelabel>
+          <edgelabel>lblPlayer1</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="25">
+        <label>Form</label>
+      </node>
+      <node id="26">
+        <label>System</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" line="17" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/BlackjackGUI/Form1.cs" bodystart="16" bodyend="204"/>
+    <listofallmembers>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a8386d941a2ea8cda77e0bebdf6d1377d" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>btnNewGame</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a0e6ce5f72c8a063639497a4bd37104b2" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>btnNewGame_Click</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1af9e29aa72559dbaf7864025fd8d6423c" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>click</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1ab486fd5c922b742a1f9acce5bda69fb6" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>components</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1aff4a9369492a620f157bef7e9ba29c76" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>d</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a6b67f409559e5053cb868eb8636b7e90" prot="protected" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>Dispose</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1acf2f9f1f1c8177258e6b6622e934774a" prot="public" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>Form1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1aff53e6b9c4436fd740ef03209c4f8397" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>Form1_Load</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1ae1dfd537e165eaf53b33041c5960cffa" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>h1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a984d87b0f08efc8774caa8187548a00f" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>h2</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a690b973dd7e325507de918a8be8604ae" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>h3</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a3ccf7d508a20f2a6e6ef76c6b25aa5c8" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>h4</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a8ef571390932d6e1bd7eb703b6ead85f" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>InitializeComponent</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1ad7b902121928da1979f3613e85fccde7" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblHand1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1adc2c6a5e22d7880bd91b02efe074bba2" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblHand2</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1add9e330814bc45a3acf23d403ed39d11" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblHand3</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a56a3d4ddd50463a25cd9f1e5b019081b" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblHand4</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1ac38940f9c23ff7d9343ed2bc96ae9e16" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblPlayer1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a04c6328d766a01ef7b19ed24c26f09ae" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblPlayer2</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a8f33a2bd9d091aca4df4173b9a6240a5" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblPlayer3</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a9bf36654773d2e5e35ef6de81e0c7f42" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblPlayer4</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a4285d024483973f7ff801d5e674a7622" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblStack</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a9463d5dc53215ed66b5798a49c72c1e9" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblStackCount</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a7675271763ce7f1e20c6b97005838f29" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblValue1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a8bc508e191c2cc3e70cc8930dbea264b" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblValue2</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1aa65c0591e8b3e149ee42e01f8de1edbf" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblValue3</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1acbbb7bcf4a1a6edf4c71420701d9c3f0" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>lblValue4</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a5443a29ec41fad6e4c1b2130577a0021" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>menuStrip1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1af06f36914eb1cc01cf9a0fbf52a0b488" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxPlayer1</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a1807fdc1ea87c8d74407448e241fb5e9" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxPlayer1_Click</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a0ca945adef566261a34451eeb0e663aa" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxPlayer2</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a560f383f6a8b40b8b0a535185f4c2897" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxPlayer3</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1ad27578254cab3675dd9988a1f0689781" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxPlayer4</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1afa2189d9577904a2e9e03fc0074d994f" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxStack</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1aef85c16e0e2580b6f73492b4ab7a08dc" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>pbxStack_Click</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1aed3230926b74de941a61a2ad2b8368bf" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>rm</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a2a6b3459e7115fc07e0fd45f45ee560e" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>s</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1a705247ae64741c303b24bbcb469ae4d6" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>toGive</name></member>
+      <member refid="class_blackjack_g_u_i_1_1_form1_1ab61282adf1660a18dd0ed7367aa8bcc3" prot="private" virt="non-virtual"><scope>BlackjackGUI::Form1</scope><name>toGiveCardName</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

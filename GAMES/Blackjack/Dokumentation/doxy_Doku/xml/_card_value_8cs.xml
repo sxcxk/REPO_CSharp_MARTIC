@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="_card_value_8cs" kind="file" language="C#">
+    <compoundname>CardValue.cs</compoundname>
+    <innernamespace refid="namespace_blackjack_1_1_logic">Blackjack::Logic</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Collections.Generic;</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Linq;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Text;</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="keyword">using</highlight><highlight class="normal"><sp/><ref refid="namespace_system" kindref="compound">System</ref>.Threading.Tasks;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespace_blackjack" kindref="compound">Blackjack</ref>.Logic</highlight></codeline>
+<codeline lineno="8"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">enum</highlight><highlight class="normal"><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16" kindref="member">CardValue</ref></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Hier<sp/>sind<sp/>die<sp/>zu<sp/>verweisenden<sp/>Werte</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a39bd9d56306f590787657ac0d9de8cc3" kindref="member">Ass</ref><sp/>=<sp/>1,</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a6139e7d0f6163e23d264b39ee0351416" kindref="member">Zwei</ref>,</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a0c7aaeadfa37c8b518ede6caa73d9316" kindref="member">Drei</ref>,</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a724c6d12f115ce230f46ade8c62019bb" kindref="member">Vier</ref>,</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a5974cbc53de7493776977bfe803be647" kindref="member">Fuenf</ref>,</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a63bb295a31d312867ef6f8f6fd3518a7" kindref="member">Sechs</ref>,</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a1172316f794321e1a1ae113f454576ae" kindref="member">Sieben</ref>,</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16affa49182e95baab2eb73e8e0e15f9b93" kindref="member">Acht</ref>,</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a22fc703a1bddafc2ace401eb90ef86cf" kindref="member">Neun</ref>,</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16affd60a0f076e4b031f422a5e74406f44" kindref="member">Zehn</ref>,</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a04cb6f2461879457368d0cf6991a3a6a" kindref="member">Bube</ref>,</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a3bf21f59fd817dcd723b34ad7396ca74" kindref="member">Dame</ref>,</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_blackjack_1_1_logic_1a456b6561fb814e4f27662794a4b9af16a2bfa6cb69601bb7ac6055d0479307ba1" kindref="member">Koenig</ref></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="29"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/CardValue.cs"/>
+  </compounddef>
+</doxygen>

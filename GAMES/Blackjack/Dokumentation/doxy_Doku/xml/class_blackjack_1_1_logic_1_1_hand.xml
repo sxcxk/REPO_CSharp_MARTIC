@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_blackjack_1_1_logic_1_1_hand" kind="class" language="C#" prot="public">
+    <compoundname>Blackjack::Logic::Hand</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_blackjack_1_1_logic_1_1_hand_1a18550dd5827a85076653283932dc2252" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Blackjack.Logic.Hand.points</definition>
+        <argsstring></argsstring>
+        <name>points</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="16" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_blackjack_1_1_logic_1_1_hand_1aebe526ac1f7e229ae299363d93d32b82" prot="private" static="no" mutable="no">
+        <type>List&lt; <ref refid="class_blackjack_1_1_logic_1_1_card" kindref="compound">Card</ref> &gt;</type>
+        <definition>List&lt;Card&gt; Blackjack.Logic.Hand.bjcs</definition>
+        <argsstring></argsstring>
+        <name>bjcs</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="17" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_blackjack_1_1_logic_1_1_hand_1a7efaaa06eb4c5168588341f4095dacfe" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Blackjack.Logic.Hand.Points</definition>
+        <argsstring></argsstring>
+        <name>Points</name>
+        <briefdescription>
+<para>Hier wird geprüft, ob der Dealer/Player über den Wert 21 sind, falls dies so ist, dann wird nach der Karte &quot;Ass&quot; und 10 Punkte von dem aktuellen Kartenwert abgezogen. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="24" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_blackjack_1_1_logic_1_1_hand_1a4f2f1c1ed0696ae19ff412cb1facddbf" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>List&lt; <ref refid="class_blackjack_1_1_logic_1_1_card" kindref="compound">Card</ref> &gt;</type>
+        <definition>List&lt;Card&gt; Blackjack.Logic.Hand.CompleteHand</definition>
+        <argsstring></argsstring>
+        <name>CompleteHand</name>
+        <briefdescription>
+<para>Hier wird nur die <ref refid="class_blackjack_1_1_logic_1_1_hand" kindref="compound">Hand</ref> also die Karten, die der Player/Dealer besitzt, zurückgeliefert. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="49" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_hand_1a898c4051d7f8d2147b159e45c6184b61" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Blackjack.Logic.Hand.TakeCard</definition>
+        <argsstring>(BlackjackCard card)</argsstring>
+        <name>TakeCard</name>
+        <param>
+          <type><ref refid="class_blackjack_1_1_logic_1_1_blackjack_card" kindref="compound">BlackjackCard</ref></type>
+          <declname>card</declname>
+        </param>
+        <briefdescription>
+<para>Die Methode liefert nichts zurück hat aber wohl einen Parameter. Im Parameter ist eine Karte der Klasse <ref refid="class_blackjack_1_1_logic_1_1_blackjack_card" kindref="compound">BlackjackCard</ref>. In dieser Methode wird eine übergebene <ref refid="class_blackjack_1_1_logic_1_1_blackjack_card" kindref="compound">BlackjackCard</ref> in die Liste bjcs hinzugefügt. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>card</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="66" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="66" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_hand_1a2dd607a44050e7a8b113b9935567b8d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Blackjack.Logic.Hand.ClearHand</definition>
+        <argsstring>()</argsstring>
+        <name>ClearHand</name>
+        <briefdescription>
+<para>Diese Methode liefert void zurück. In dieser Methode werden die Karten, die sich auf der <ref refid="class_blackjack_1_1_logic_1_1_hand" kindref="compound">Hand</ref> gelöscht, besser gesagt die Liste bjcs wird geleert. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="77" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="77" bodyend="80"/>
+      </memberdef>
+      <memberdef kind="function" id="class_blackjack_1_1_logic_1_1_hand_1a4729bd3d724b89cf73fd90eb261a8d22" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Blackjack.Logic.Hand.Hand</definition>
+        <argsstring>()</argsstring>
+        <name>Hand</name>
+        <briefdescription>
+<para>Das ist der Konstruktor der Klasse. Hier wird die Liste bjcs erstellt. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="88" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="88" bodyend="91"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Diese Klasse wird dazu verwendet, damit der Kartenwert ausgegeben werden kann(Dealer, Player). </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" line="14" column="1" bodyfile="C:/Users/Petar/Desktop/Blackjack/Software/Blackjack.Logic/Hand.cs" bodystart="13" bodyend="93"/>
+    <listofallmembers>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1aebe526ac1f7e229ae299363d93d32b82" prot="private" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>bjcs</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1a2dd607a44050e7a8b113b9935567b8d4" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>ClearHand</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1a4f2f1c1ed0696ae19ff412cb1facddbf" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>CompleteHand</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1a4729bd3d724b89cf73fd90eb261a8d22" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>Hand</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1a18550dd5827a85076653283932dc2252" prot="private" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>points</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1a7efaaa06eb4c5168588341f4095dacfe" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>Points</name></member>
+      <member refid="class_blackjack_1_1_logic_1_1_hand_1a898c4051d7f8d2147b159e45c6184b61" prot="public" virt="non-virtual"><scope>Blackjack::Logic::Hand</scope><name>TakeCard</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

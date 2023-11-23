@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="dir_07d19f8dd8cf5370b202ee01dd83f1bc" kind="dir">
+    <compoundname>C:/Users/Petar/Desktop/Blackjack</compoundname>
+    <innerdir refid="dir_cc462097599ab59658d122ad0f1394cc">C:/Users/Petar/Desktop/Blackjack/Software</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Petar/Desktop/Blackjack/"/>
+  </compounddef>
+</doxygen>
