@@ -1,6 +1,0 @@
-C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Core\bin\Debug\LightHubService.Core.dll
-C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Core\bin\Debug\LightHubService.Core.pdb
-C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Core\obj\Debug\LightHubService.Core.csproj.AssemblyReference.cache
-C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Core\obj\Debug\LightHubService.Core.csproj.CoreCompileInputs.cache
-C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Core\obj\Debug\LightHubService.Core.dll
-C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Core\obj\Debug\LightHubService.Core.pdb
