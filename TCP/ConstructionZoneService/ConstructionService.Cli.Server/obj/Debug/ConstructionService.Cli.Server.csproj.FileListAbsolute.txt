@@ -1,0 +1,12 @@
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\obj\Debug\ConstructionService.Cli.Server.csproj.CoreCompileInputs.cache
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\ConstructionService.Cli.Server.exe.config
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\ConstructionService.Cli.Server.exe
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\ConstructionService.Cli.Server.pdb
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\Construction.Service.Core.dll
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\ConstructionService.Shared.dll
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\Construction.Service.Core.pdb
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\bin\Debug\ConstructionService.Shared.pdb
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\obj\Debug\ConstructionService.Cli.Server.csproj.AssemblyReference.cache
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\obj\Debug\ConstructionService.Cli.Server.csproj.CopyComplete
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\obj\Debug\ConstructionService.Cli.Server.exe
+Z:\ConstructionZoneService\ConstructionService.Cli.Server\obj\Debug\ConstructionService.Cli.Server.pdb

@@ -1,0 +1,16 @@
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.csproj.AssemblyReference.cache
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.TrafficCountingServiceGUI.resources
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.Properties.Resources.resources
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.csproj.GenerateResource.cache
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Service.exe.config
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Service.exe
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Service.pdb
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Core.dll
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Shared.dll
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Core.pdb
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\bin\Debug\TrafficCounting.Shared.pdb
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.csproj.CopyComplete
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.exe
+C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Service\obj\Debug\TrafficCounting.Service.pdb
