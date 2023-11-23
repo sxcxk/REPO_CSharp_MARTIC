@@ -1,6 +1,0 @@
-C:\Users\peter\Desktop\SysLogServer\SysLogServer.Shared\bin\Debug\SysLogServer.Shared.dll
-C:\Users\peter\Desktop\SysLogServer\SysLogServer.Shared\bin\Debug\SysLogServer.Shared.pdb
-C:\Users\peter\Desktop\SysLogServer\SysLogServer.Shared\obj\Debug\SysLogServer.Shared.csproj.AssemblyReference.cache
-C:\Users\peter\Desktop\SysLogServer\SysLogServer.Shared\obj\Debug\SysLogServer.Shared.csproj.CoreCompileInputs.cache
-C:\Users\peter\Desktop\SysLogServer\SysLogServer.Shared\obj\Debug\SysLogServer.Shared.dll
-C:\Users\peter\Desktop\SysLogServer\SysLogServer.Shared\obj\Debug\SysLogServer.Shared.pdb
