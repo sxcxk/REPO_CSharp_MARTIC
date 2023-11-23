@@ -1,0 +1,11 @@
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\bin\Debug\LightHubService.Server.Gui.exe.config
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\bin\Debug\LightHubService.Server.Gui.exe
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\bin\Debug\LightHubService.Server.Gui.pdb
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\bin\Debug\LightHubService.Core.dll
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\bin\Debug\LightHubService.Core.pdb
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\obj\Debug\LightHubService.Server.Gui.csproj.AssemblyReference.cache
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\obj\Debug\LightHubService.Server.Gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\obj\Debug\LightHubService.Server.Gui.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\obj\Debug\LightHubService.Server.Gui.csproj.CopyComplete
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\obj\Debug\LightHubService.Server.Gui.exe
+C:\Users\peter\Desktop\LightHubService_MARTIC\LightHubService.Server.Gui\obj\Debug\LightHubService.Server.Gui.pdb
