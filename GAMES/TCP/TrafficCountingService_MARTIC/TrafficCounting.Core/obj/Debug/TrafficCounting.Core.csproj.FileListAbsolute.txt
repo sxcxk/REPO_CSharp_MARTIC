@@ -1,9 +1,0 @@
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\obj\Debug\TrafficCounting.Core.csproj.AssemblyReference.cache
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\obj\Debug\TrafficCounting.Core.csproj.CoreCompileInputs.cache
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\bin\Debug\TrafficCounting.Core.dll
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\bin\Debug\TrafficCounting.Core.pdb
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\bin\Debug\TrafficCounting.Shared.dll
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\bin\Debug\TrafficCounting.Shared.pdb
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\obj\Debug\TrafficCounting.Core.csproj.CopyComplete
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\obj\Debug\TrafficCounting.Core.dll
-C:\Users\peter\Desktop\TrafficCountingService_MARTIC\TrafficCounting.Core\obj\Debug\TrafficCounting.Core.pdb
