@@ -1,0 +1,14 @@
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.csproj.AssemblyReference.cache
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.Form1.resources
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.Properties.Resources.resources
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.csproj.GenerateResource.cache
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\bin\Debug\Server.WinGui.exe.config
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\bin\Debug\Server.WinGui.exe
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\bin\Debug\Server.WinGui.pdb
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\bin\Debug\AlphabotLogic.dll
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\bin\Debug\AlphabotLogic.pdb
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.csproj.CopyComplete
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.exe
+C:\Users\peter\Desktop\AlphabotService_MARTIC\Server.WinGui\obj\Debug\Server.WinGui.pdb
