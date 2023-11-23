@@ -1,0 +1,5 @@
+Z:\ConstructionZoneService\ConstructionService.Shared\obj\Debug\ConstructionService.Shared.csproj.CoreCompileInputs.cache
+Z:\ConstructionZoneService\ConstructionService.Shared\bin\Debug\ConstructionService.Shared.dll
+Z:\ConstructionZoneService\ConstructionService.Shared\bin\Debug\ConstructionService.Shared.pdb
+Z:\ConstructionZoneService\ConstructionService.Shared\obj\Debug\ConstructionService.Shared.dll
+Z:\ConstructionZoneService\ConstructionService.Shared\obj\Debug\ConstructionService.Shared.pdb

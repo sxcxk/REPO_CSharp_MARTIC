@@ -1,0 +1,10 @@
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\obj\Debug\ServerCli.csprojAssemblyReference.cache
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\obj\Debug\ServerCli.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\bin\Debug\ServerCli.exe.config
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\bin\Debug\ServerCli.exe
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\bin\Debug\ServerCli.pdb
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\bin\Debug\MorseServiceLib.dll
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\bin\Debug\MorseServiceLib.pdb
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\obj\Debug\ServerCli.csproj.CopyComplete
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\obj\Debug\ServerCli.exe
+C:\Users\peter\OneDrive\Desktop\SEW\SocketMorseCode_MARTIC\ServerCli\obj\Debug\ServerCli.pdb

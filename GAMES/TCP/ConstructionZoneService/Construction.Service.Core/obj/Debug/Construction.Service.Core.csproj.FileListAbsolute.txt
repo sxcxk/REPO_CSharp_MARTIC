@@ -1,0 +1,9 @@
+Z:\ConstructionZoneService\Construction.Service.Core\obj\Debug\Construction.Service.Core.csproj.CoreCompileInputs.cache
+Z:\ConstructionZoneService\Construction.Service.Core\bin\Debug\Construction.Service.Core.dll
+Z:\ConstructionZoneService\Construction.Service.Core\bin\Debug\Construction.Service.Core.pdb
+Z:\ConstructionZoneService\Construction.Service.Core\bin\Debug\ConstructionService.Shared.dll
+Z:\ConstructionZoneService\Construction.Service.Core\bin\Debug\ConstructionService.Shared.pdb
+Z:\ConstructionZoneService\Construction.Service.Core\obj\Debug\Construction.Service.Core.csproj.AssemblyReference.cache
+Z:\ConstructionZoneService\Construction.Service.Core\obj\Debug\Construction.Service.Core.csproj.CopyComplete
+Z:\ConstructionZoneService\Construction.Service.Core\obj\Debug\Construction.Service.Core.dll
+Z:\ConstructionZoneService\Construction.Service.Core\obj\Debug\Construction.Service.Core.pdb
